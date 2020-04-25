@@ -1,5 +1,5 @@
 {
-  "name": "@LKNSI/mb-gl-dir-swf",
+  "name": "mb-gl-dir-swf",
   "version": "0.0.1",
   "description": "Startup weekend fork.",
   "main": "./src/index.js",
